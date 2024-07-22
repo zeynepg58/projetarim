@@ -1,0 +1,24 @@
+{
+    "US": {
+        "countryName": "United States 🇺🇸",
+        "phoneCode": "+1"
+    },
+    "UK": {
+        "countryName": "United Kingdom 🇬🇧",
+        "phoneCode": "+44"
+    },
+    "DE": {
+        "countryName": "Germany 🇩🇪",
+        "phoneCode": "+49"
+    },
+    "FR": {
+        "countryName": "France 🇫🇷",
+        "phoneCode": "+33"
+    },
+    "IT": {
+        "countryName": "Italy 🇮🇹",
+        "phoneCode": "+39"
+    }
+}
+
+  
